@@ -1,0 +1,55 @@
+.primerBody{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0; padding: 0;
+    height: 100vh;
+}
+
+.primerContenedor{
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 40px;
+    margin: 60px auto;
+    border-radius: 20px;
+    font-family: Arial;
+    max-width: 700px;
+    text-align: center;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+}
+
+.primerH1{
+    color:#4a7c59;
+     margin-bottom: 30px;
+      font-size: 32px;
+}
+
+.parrafos1{
+    font-size: 18px;
+     line-height: 1.8
+     ; color: #2c3e50;
+      margin-bottom: 25px;
+       font-weight: 500;
+        font-style: italic;
+}
+
+.parrafos2{
+    font-size: 20px;
+     line-height: 1.8;
+      color: #5d6d5b;
+       font-weight: bold;
+        font-style: italic;
+}
+
+.pagina2{
+background-color: #4a7c59;
+ color: white;
+  padding: 15px 30px;
+   text-decoration: none;
+    border-radius: 25px;
+     font-size: 18px;
+      font-weight: bold;
+       font-style: italic;
+        display: inline-block;
+         width: 200px;
+          text-align: center;
+           box-shadow: 0 4px 15px rgba(0,0,0,0.3);}
